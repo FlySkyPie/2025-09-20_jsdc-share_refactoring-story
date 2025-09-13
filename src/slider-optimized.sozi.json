@@ -38,7 +38,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -64,7 +64,7 @@
       "frameId": "frame1392",
       "title": "Summary",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "我今天會分享的性質比較接近說故事，<span style=\"font-size: 11pt;\">技術含量可能比較不高，在這邊先打個預防針，避免有人聽完覺得有點失望。</span><div><br></div><div>今天我要分享三個重構的專案，各位可以當作是三個故事。</div><div><br></div><div>那麼重構的故事究竟是從哪裡開始的呢？</div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -75,7 +75,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -101,7 +101,7 @@
       "frameId": "frame3176",
       "title": "Awesome Open Source",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "我的興趣就是去 Awesome Open Source 這種網站閒逛，看有沒有什麼有趣的專案，有些我會先放在口袋清單，如果哪天突然哪根筋不對勁就去 clone 下來玩玩。<div><br></div><div>順便說一下，我的風格就是在「投影片」裡面的參考來源通常會附上 QR Code，有興趣的人可以自己拿出手機掃描。</div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -112,7 +112,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -138,7 +138,7 @@
       "frameId": "frame4372",
       "title": "GitHub Topic",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "當然，GitHub 的主題專區也是一個好地方。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -149,7 +149,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -175,7 +175,7 @@
       "frameId": "frame6749",
       "title": "Dental Defender",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "第一個專案的名稱有點長，我先叫它糖果戰記。<br>它是一個 2D 的射擊小遊戲。<br>這算是第一個我正式開始翻別人專案重構的專案，而這個專案背後有一個小故事。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -186,7 +186,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -212,7 +212,7 @@
       "frameId": "frame6773",
       "title": "CandyJam",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "這個專案源自一個叫做 CandyJam 的 Game Jam，我簡單解釋一下，以免有人不知道&nbsp;<span style=\"font-size: 14.6667px;\">Game Jam 是什麼。</span><span style=\"font-size: 14.6667px;\">Game Jam 就是一群人組隊在有限的時間內，比如一天不睡覺，把一個小遊戲做出來的活動，有點類似黑客松。</span>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -223,7 +223,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -249,7 +249,7 @@
       "frameId": "frame4808",
       "title": "Candy TM",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "Candy Crush 這個遊戲大家應該多少都聽過，而它背後的公司當時企圖對 Candy 這個詞彙申請註冊商標。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -260,7 +260,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -286,7 +286,7 @@
       "frameId": "frame6930",
       "title": "Saga TM",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "並且這間公司還對另外一個獨立開發者發起告訴，因為那個獨立遊戲使用了 Saga 這個單字。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -297,7 +297,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -323,7 +323,7 @@
       "frameId": "frame3129",
       "title": "CandyJam",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "於是獨立開發圈就發起一個名為 CandyJam 的 GameJam，直接嘲諷與挑興那間公司。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -334,7 +334,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -360,7 +360,7 @@
       "frameId": "frame1428",
       "title": "Dental Defender",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "所以你可以看到這個專案的名稱就是用好用滿，又有 Candy，也有 Saga。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -371,7 +371,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -397,7 +397,7 @@
       "frameId": "frame3336",
       "title": "Dental Defender Refactoring",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "具體而言我究竟重構了什麼？<br>我把 Javascript 的程式碼遷移成 Typescript 專案，<div>並且把 Phaser 引擎從第二版升級到第三版。</div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -408,7 +408,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -434,7 +434,7 @@
       "frameId": "frame9163",
       "title": "Aim and Shoot",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "接下來是名為 Aim And Shoot 的專案。<br>各位可以看到它的封面圖非常有個性。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -445,7 +445,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -471,7 +471,7 @@
       "frameId": "frame6123",
       "title": "Aim and Shoot",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "這個專案同樣是 2D 射擊遊戲，<div>不過比較特別是玩家是中間這個黑色的，</div><div>而其他敵人全部都是由一個簡陋的類神經網路所控制。</div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -482,7 +482,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -508,7 +508,7 @@
       "frameId": "frame3802",
       "title": "Aim and Shoot",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "並且當玩家死亡時會出現這個畫面嘲諷玩家。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -519,7 +519,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -545,7 +545,7 @@
       "frameId": "frame4920",
       "title": "Aim and Shoot - Refactoring",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "至於我在這個專案重構了什麼？",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -556,7 +556,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -582,7 +582,7 @@
       "frameId": "frame1820",
       "title": "Aim and Shoot - Refactoring Readme",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "Readme 有寫，自己看。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -593,7 +593,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -619,7 +619,7 @@
       "frameId": "frame6324",
       "title": "Aim and Shoot - Refactoring Joke",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "開個<span style=\"font-size: 14.6667px;\">小</span>玩笑，我這邊簡單解釋一下。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -630,7 +630,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -656,7 +656,7 @@
       "frameId": "frame7493",
       "title": "Aim and Shoot - Refactoring",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "還是老樣子的把 Javascript 移植到 Typescript，<div>另外就是加入現代化的工具鏈，因為原本的專案並沒有使用 ES Module。</div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -667,7 +667,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -693,7 +693,7 @@
       "frameId": "frame9419",
       "title": "Aim and Shoot - Refactoring",
       "titleLevel": 0,
-      "notes": "Web Component",
+      "notes": "另外就是簡單寫了個美化的 UI 顯示記分板，<br>並且試著使用 Web Component，<div>整個遊戲實做和中間 Canvas 的部份是被封裝成 Web Component，外面再用 React 拉進來使用。</div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -704,7 +704,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -730,7 +730,7 @@
       "frameId": "frame9737",
       "title": "Aim and Shoot - Refactoring ECS",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "還有一個比較特別的事，也是我這次專案主要的目的，<div>就是練習 ECS 的寫法。</div><div>ECS 是相對於物件導向的另外一種程式設計風格，</div><div>簡單來說就是 OOP 會把資料跟運算封裝成物件，</div><div>但是 ECS 則是採用資料跟運算分開來的寫作方式，</div><div>資料會以 Entity 和 Component 的形式存在，運算則是由 System 負責。<br><br>因為這種差異，寫成是的時候必須要訓練自己不要以 OOP 的思維去思考問題，所以我算是透過這個重構的專案想要體驗一下 ECS 的思考方式。</div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -741,7 +741,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -767,7 +767,7 @@
       "frameId": "frame8931",
       "title": "Girls Frontline",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "接著，下一個專案的故事有一點點複雜。<div>故事是從我在 GitHub 上發現有人逆向工程少女前線的遊戲內容。</div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -778,7 +778,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -804,7 +804,7 @@
       "frameId": "frame5141",
       "title": "DragonBonesJS - Spine",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "在這個資料夾裡面",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -815,7 +815,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -841,7 +841,7 @@
       "frameId": "frame4910",
       "title": "DragonBonesJS - Spine Assets",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "<span style=\"font-size: 14.6667px;\">可以找到像是這樣的東西，也就是遊戲角色的素材。</span>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -852,7 +852,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -878,7 +878,7 @@
       "frameId": "frame7833",
       "title": "Spine",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "不過問題是這個檔案格式是由這個專有軟體所有。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -889,7 +889,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -915,7 +915,7 @@
       "frameId": "frame3235",
       "title": "Spine License",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "並且所有 runtime 都受到嚴格的授權規則限制，<div>簡單來說，想用就要付錢。</div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -926,7 +926,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -952,7 +952,7 @@
       "frameId": "frame8876",
       "title": "DragonBonesJS",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "於是我後來找到另外一款叫做 DragonBones 的軟體，<br>它的編輯器本身之前是免費下載的。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -963,7 +963,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -989,7 +989,7 @@
       "frameId": "frame5479",
       "title": "DragonBonesJS",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "而 runtime，俗稱 SDK。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -1000,7 +1000,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -1026,7 +1026,7 @@
       "frameId": "frame9436",
       "title": "DragonBonesJS MIT",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "是開源的！",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -1037,7 +1037,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -1063,7 +1063,7 @@
       "frameId": "frame2205",
       "title": "DragonBonesJS Threejs",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "並且支援我熟悉的 Three.js。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -1074,7 +1074,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -1100,7 +1100,7 @@
       "frameId": "frame2798",
       "title": "DragonBonesJS Pixi Examples",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "但是問題來了，這是 Pixi 的範例程式。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -1111,7 +1111,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -1137,7 +1137,7 @@
       "frameId": "frame8094",
       "title": "DragonBonesJS Threejs Examples",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "這是 Three.js 的<span style=\"font-size: 14.6667px;\">範例程式。</span>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -1148,7 +1148,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -1174,7 +1174,7 @@
       "frameId": "frame2888",
       "title": "DragonBonesJS Refactoring",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "我重構的重點主要有兩個，<div>一個是把原本基於 namespace 的 bundle 拆成 ES Module。<br>另外一個是把 Three.js 升級到當時的最新版本。</div><div>但是問題就來了，我要怎麼知道我重構的過程有沒有不小心弄壞東西？</div><div>剛剛各位有看到 Pixi 的 runtime 有很多範例，</div><div>加上專案老舊歸老舊，但是結構切得很漂亮，可以透過一個抽象層讓不同的目標函式庫共用同一組核心程式碼。</div><div><br></div><div>所以我最後總共重構了三個模組，核心模組、Three.js 模組和 Pixi，<span style=\"font-size: 14.6667px;\">Three.js 和核心模組是我實際要用到的，</span><span style=\"font-size: 14.6667px;\">&nbsp;</span><span style=\"font-size: 14.6667px;\">Pixi 模組是為了給範例程式執行用來測試我重構的核心模組有沒有問題。</span></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -1185,7 +1185,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -1211,7 +1211,7 @@
       "frameId": "frame5669",
       "title": "Chibi Shootgame",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "花了一個月重構完成後我終於才能開始寫我最一開始想測試的東西，就是一個簡單的射擊遊戲。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -1222,7 +1222,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -1248,10 +1248,10 @@
       "frameId": "frame2851",
       "title": "Something",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "好了，我分享了三個重構專案的故事，有人可能發現這三個專案之間好像有某種共同點。<div><br></div><div>不過又是另外一個故事了。</div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
-      "transitionDurationMs": 1000,
+      "transitionDurationMs": 5000,
       "showInFrameList": true,
       "showFrameNumber": true,
       "layerProperties": {
@@ -1259,7 +1259,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -1285,10 +1285,10 @@
       "frameId": "frame8146",
       "title": "Introduce",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "有人說「不要聽一個人說什麼，要看一個人做了什麼」。<div>所以我把自我介紹放在最後，各位不需要知道我是誰，只要知道我做了什麼。</div><div><br></div><div>我是飛派，主要網頁前端工程師，只是因為公司的業務是偏遊戲開發屬性的，所以我有比較有機會接觸 3D 美術相關的東西，貼圖啦、頂點啦、渲染什麼的算是略懂略懂。<br><br><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
-      "transitionDurationMs": 1000,
+      "transitionDurationMs": 2000,
       "showInFrameList": true,
       "showFrameNumber": true,
       "layerProperties": {
@@ -1296,7 +1296,7 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -1319,10 +1319,10 @@
       "cameraOffsets": {}
     },
     {
-      "frameId": "frame7945",
-      "title": "Q&A",
+      "frameId": "frame5002",
+      "title": "Side Project",
       "titleLevel": 0,
-      "notes": "",
+      "notes": "然後如各位所見，我很愛挖新坑給自己跳。",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -1333,7 +1333,44 @@
           "link": false,
           "referenceElementId": "",
           "outlineElementId": "",
-          "transitionTimingFunction": "linear",
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 775.0045007881571,
+          "cy": 468.87552250065465,
+          "width": 14.51576183839914,
+          "height": 9.074251117826478,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame7945",
+      "title": "Q&A",
+      "titleLevel": 0,
+      "notes": "我的分享到這裡為止。<br>包含這個投影片在內，跟我剛剛提到的專案的 Git Repo 都在上面。有人有問題嗎？",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
