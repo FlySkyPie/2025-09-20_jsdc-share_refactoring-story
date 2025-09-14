@@ -2,7 +2,7 @@
 event: "JSDC 2025"
 ---
 
-# Some story about my refactorings (DragonBonesJS, aimAndShoot, SweetHome3DJS...)
+# Some story about my refactorings (DragonBonesJS, aimAndShoot...)
 
 wip
 

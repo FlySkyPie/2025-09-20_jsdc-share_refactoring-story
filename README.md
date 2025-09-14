@@ -2,7 +2,7 @@
 event: "JSDC 2025"
 ---
 
-# 我的一些重構分享 (DragonBonesJS, aimAndShoot, SweetHome3DJS...)
+# 我的一些重構分享 (DragonBonesJS, aimAndShoot...)
 
 為 JSDC 2025 線上分享準備的投影片與講稿。
 
